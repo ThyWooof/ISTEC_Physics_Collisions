@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://d2p7yjoxbi862"
-path="res://.godot/imported/spline-default-looping.glb-14bdaaa7d8973a2c3143f566dbf564a8.scn"
+path="res://.godot/imported/spline-default-looping.glb-14bdaaa7d8973a2c3143f566dbf564a8.res"
 
 [deps]
 
 source_file="res://assets/spline-default-looping.glb"
-dest_files=["res://.godot/imported/spline-default-looping.glb-14bdaaa7d8973a2c3143f566dbf564a8.scn"]
+dest_files=["res://.godot/imported/spline-default-looping.glb-14bdaaa7d8973a2c3143f566dbf564a8.res"]
 
 [params]
 

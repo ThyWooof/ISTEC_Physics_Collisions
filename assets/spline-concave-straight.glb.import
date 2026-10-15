@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://cakbuai8sa3l3"
-path="res://.godot/imported/spline-concave-straight.glb-42c71abb71ba76373ed90e330dd16940.scn"
+path="res://.godot/imported/spline-concave-straight.glb-42c71abb71ba76373ed90e330dd16940.res"
 
 [deps]
 
 source_file="res://assets/spline-concave-straight.glb"
-dest_files=["res://.godot/imported/spline-concave-straight.glb-42c71abb71ba76373ed90e330dd16940.scn"]
+dest_files=["res://.godot/imported/spline-concave-straight.glb-42c71abb71ba76373ed90e330dd16940.res"]
 
 [params]
 

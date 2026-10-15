@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://d36qf8sf1rxn7"
-path="res://.godot/imported/obstacle-diamond.glb-18a2cf59b5f1bb77b67dd4c3519ec145.scn"
+path="res://.godot/imported/obstacle-diamond.glb-18a2cf59b5f1bb77b67dd4c3519ec145.res"
 
 [deps]
 
 source_file="res://assets/obstacle-diamond.glb"
-dest_files=["res://.godot/imported/obstacle-diamond.glb-18a2cf59b5f1bb77b67dd4c3519ec145.scn"]
+dest_files=["res://.godot/imported/obstacle-diamond.glb-18a2cf59b5f1bb77b67dd4c3519ec145.res"]
 
 [params]
 

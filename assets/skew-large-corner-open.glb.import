@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://di3ejvyxwayp4"
-path="res://.godot/imported/skew-large-corner-open.glb-b166906ec3ab5210a41e19e1421dd9c4.scn"
+path="res://.godot/imported/skew-large-corner-open.glb-b166906ec3ab5210a41e19e1421dd9c4.res"
 
 [deps]
 
 source_file="res://assets/skew-large-corner-open.glb"
-dest_files=["res://.godot/imported/skew-large-corner-open.glb-b166906ec3ab5210a41e19e1421dd9c4.scn"]
+dest_files=["res://.godot/imported/skew-large-corner-open.glb-b166906ec3ab5210a41e19e1421dd9c4.res"]
 
 [params]
 

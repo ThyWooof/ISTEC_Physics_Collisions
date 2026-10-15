@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://dv3ioyfqt8kbx"
-path="res://.godot/imported/walls-to-open.glb-e33898a02f5aebf66638a3f00a1373cc.scn"
+path="res://.godot/imported/walls-to-open.glb-e33898a02f5aebf66638a3f00a1373cc.res"
 
 [deps]
 
 source_file="res://assets/walls-to-open.glb"
-dest_files=["res://.godot/imported/walls-to-open.glb-e33898a02f5aebf66638a3f00a1373cc.scn"]
+dest_files=["res://.godot/imported/walls-to-open.glb-e33898a02f5aebf66638a3f00a1373cc.res"]
 
 [params]
 

@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://i7x8q4awd2jo"
-path="res://.godot/imported/hill-square.glb-edf47d1d08e949808c4e075e24c1629a.scn"
+path="res://.godot/imported/hill-square.glb-edf47d1d08e949808c4e075e24c1629a.res"
 
 [deps]
 
 source_file="res://assets/hill-square.glb"
-dest_files=["res://.godot/imported/hill-square.glb-edf47d1d08e949808c4e075e24c1629a.scn"]
+dest_files=["res://.godot/imported/hill-square.glb-edf47d1d08e949808c4e075e24c1629a.res"]
 
 [params]
 

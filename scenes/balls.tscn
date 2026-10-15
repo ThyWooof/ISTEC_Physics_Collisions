@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://bhw160vo1q5ws"]
+
+[ext_resource type="ArrayMesh" uid="uid://dws3w6n50kh2t" path="res://assets/ball-blue.glb" id="1_fh7ut"]
+[ext_resource type="Script" uid="uid://dj4qhbao11y2j" path="res://scripts/balls.gd" id="1_kcjbe"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_g4v7s"]
+radius = 0.03507672
+
+[node name="RigidBody3D" type="RigidBody3D" unique_id=1472106448]
+script = ExtResource("1_kcjbe")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=272860037]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.001266472, 0.00010551512, -0.0059291665)
+shape = SubResource("SphereShape3D_g4v7s")
+
+[node name="BallBlue" type="MeshInstance3D" parent="." unique_id=70843852]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.001091361, 0, -0.00530833)
+mesh = ExtResource("1_fh7ut")

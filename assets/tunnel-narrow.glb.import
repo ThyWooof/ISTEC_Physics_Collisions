@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://dn25h7o0xspiu"
-path="res://.godot/imported/tunnel-narrow.glb-d5f8c21ba6e897d85c7451151b49aa1e.scn"
+path="res://.godot/imported/tunnel-narrow.glb-d5f8c21ba6e897d85c7451151b49aa1e.res"
 
 [deps]
 
 source_file="res://assets/tunnel-narrow.glb"
-dest_files=["res://.godot/imported/tunnel-narrow.glb-d5f8c21ba6e897d85c7451151b49aa1e.scn"]
+dest_files=["res://.godot/imported/tunnel-narrow.glb-d5f8c21ba6e897d85c7451151b49aa1e.res"]
 
 [params]
 

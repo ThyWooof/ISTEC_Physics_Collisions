@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://b8fb4k4cfr061"
-path="res://.godot/imported/spline-default-straight-bend.glb-3791ad3a54ce8f0674d5685fd3b48f1a.scn"
+path="res://.godot/imported/spline-default-straight-bend.glb-3791ad3a54ce8f0674d5685fd3b48f1a.res"
 
 [deps]
 
 source_file="res://assets/spline-default-straight-bend.glb"
-dest_files=["res://.godot/imported/spline-default-straight-bend.glb-3791ad3a54ce8f0674d5685fd3b48f1a.scn"]
+dest_files=["res://.godot/imported/spline-default-straight-bend.glb-3791ad3a54ce8f0674d5685fd3b48f1a.res"]
 
 [params]
 

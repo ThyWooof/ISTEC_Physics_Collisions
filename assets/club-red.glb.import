@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://diu648q1jf2ic"
-path="res://.godot/imported/club-red.glb-17d76006cc564ef7fbf2297d2d09628b.scn"
+path="res://.godot/imported/club-red.glb-17d76006cc564ef7fbf2297d2d09628b.res"
 
 [deps]
 
 source_file="res://assets/club-red.glb"
-dest_files=["res://.godot/imported/club-red.glb-17d76006cc564ef7fbf2297d2d09628b.scn"]
+dest_files=["res://.godot/imported/club-red.glb-17d76006cc564ef7fbf2297d2d09628b.res"]
 
 [params]
 

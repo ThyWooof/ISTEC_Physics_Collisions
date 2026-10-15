@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://b51omd3ndhiac"
-path="res://.godot/imported/ramp-large-side.glb-8c0edc9c8f6e9c926c7f4048acd2d658.scn"
+path="res://.godot/imported/ramp-large-side.glb-8c0edc9c8f6e9c926c7f4048acd2d658.res"
 
 [deps]
 
 source_file="res://assets/ramp-large-side.glb"
-dest_files=["res://.godot/imported/ramp-large-side.glb-8c0edc9c8f6e9c926c7f4048acd2d658.scn"]
+dest_files=["res://.godot/imported/ramp-large-side.glb-8c0edc9c8f6e9c926c7f4048acd2d658.res"]
 
 [params]
 

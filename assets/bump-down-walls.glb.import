@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://detjq48c4hl3k"
-path="res://.godot/imported/bump-down-walls.glb-f3381913c4aa15c685a9ea0c5fc5a1e6.scn"
+path="res://.godot/imported/bump-down-walls.glb-f3381913c4aa15c685a9ea0c5fc5a1e6.res"
 
 [deps]
 
 source_file="res://assets/bump-down-walls.glb"
-dest_files=["res://.godot/imported/bump-down-walls.glb-f3381913c4aa15c685a9ea0c5fc5a1e6.scn"]
+dest_files=["res://.godot/imported/bump-down-walls.glb-f3381913c4aa15c685a9ea0c5fc5a1e6.res"]
 
 [params]
 

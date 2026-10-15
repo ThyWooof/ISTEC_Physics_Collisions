@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://caj22rw3u5de2"
-path="res://.godot/imported/ramp-high.glb-1ecd2d9ba72f2f78711868f33930ee95.scn"
+path="res://.godot/imported/ramp-high.glb-1ecd2d9ba72f2f78711868f33930ee95.res"
 
 [deps]
 
 source_file="res://assets/ramp-high.glb"
-dest_files=["res://.godot/imported/ramp-high.glb-1ecd2d9ba72f2f78711868f33930ee95.scn"]
+dest_files=["res://.godot/imported/ramp-high.glb-1ecd2d9ba72f2f78711868f33930ee95.res"]
 
 [params]
 

@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://c0j5c1mqgcifs"
-path="res://.godot/imported/corner.glb-b78218541bbae638f5f70d02a922054c.scn"
+path="res://.godot/imported/corner.glb-b78218541bbae638f5f70d02a922054c.res"
 
 [deps]
 
 source_file="res://assets/corner.glb"
-dest_files=["res://.godot/imported/corner.glb-b78218541bbae638f5f70d02a922054c.scn"]
+dest_files=["res://.godot/imported/corner.glb-b78218541bbae638f5f70d02a922054c.res"]
 
 [params]
 

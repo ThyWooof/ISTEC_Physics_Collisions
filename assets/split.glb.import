@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://b4hxcop5vawem"
-path="res://.godot/imported/split.glb-c0b16a48c676489fa5a0924196461e33.scn"
+path="res://.godot/imported/split.glb-c0b16a48c676489fa5a0924196461e33.res"
 
 [deps]
 
 source_file="res://assets/split.glb"
-dest_files=["res://.godot/imported/split.glb-c0b16a48c676489fa5a0924196461e33.scn"]
+dest_files=["res://.godot/imported/split.glb-c0b16a48c676489fa5a0924196461e33.res"]
 
 [params]
 

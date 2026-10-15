@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://bp064crjelidq"
-path="res://.godot/imported/spline-concave-looping.glb-3ed05bbf5e5a553381e617c25adf082a.scn"
+path="res://.godot/imported/spline-concave-looping.glb-3ed05bbf5e5a553381e617c25adf082a.res"
 
 [deps]
 
 source_file="res://assets/spline-concave-looping.glb"
-dest_files=["res://.godot/imported/spline-concave-looping.glb-3ed05bbf5e5a553381e617c25adf082a.scn"]
+dest_files=["res://.godot/imported/spline-concave-looping.glb-3ed05bbf5e5a553381e617c25adf082a.res"]
 
 [params]
 

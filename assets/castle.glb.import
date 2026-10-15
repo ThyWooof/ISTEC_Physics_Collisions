@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://bls4dal05kqtv"
-path="res://.godot/imported/castle.glb-80c77dc4eca72e1e7d677a0c48d46669.scn"
+path="res://.godot/imported/castle.glb-80c77dc4eca72e1e7d677a0c48d46669.res"
 
 [deps]
 
 source_file="res://assets/castle.glb"
-dest_files=["res://.godot/imported/castle.glb-80c77dc4eca72e1e7d677a0c48d46669.scn"]
+dest_files=["res://.godot/imported/castle.glb-80c77dc4eca72e1e7d677a0c48d46669.res"]
 
 [params]
 

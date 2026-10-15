@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://j4xvv6icil3a"
-path="res://.godot/imported/crest.glb-1eaa2c283e646f00d3f4a4b87fef8761.scn"
+path="res://.godot/imported/crest.glb-1eaa2c283e646f00d3f4a4b87fef8761.res"
 
 [deps]
 
 source_file="res://assets/crest.glb"
-dest_files=["res://.godot/imported/crest.glb-1eaa2c283e646f00d3f4a4b87fef8761.scn"]
+dest_files=["res://.godot/imported/crest.glb-1eaa2c283e646f00d3f4a4b87fef8761.res"]
 
 [params]
 

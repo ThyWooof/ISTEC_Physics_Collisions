@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://gxtgtggcwn7u"
-path="res://.godot/imported/structure-gate.glb-feba2bd41f94d138d5bdc6e0d444d2cf.scn"
+path="res://.godot/imported/structure-gate.glb-feba2bd41f94d138d5bdc6e0d444d2cf.res"
 
 [deps]
 
 source_file="res://assets/structure-gate.glb"
-dest_files=["res://.godot/imported/structure-gate.glb-feba2bd41f94d138d5bdc6e0d444d2cf.scn"]
+dest_files=["res://.godot/imported/structure-gate.glb-feba2bd41f94d138d5bdc6e0d444d2cf.res"]
 
 [params]
 

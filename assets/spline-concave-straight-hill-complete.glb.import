@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://dnqqodtu4csw8"
-path="res://.godot/imported/spline-concave-straight-hill-complete.glb-68ecbf923fa1bf569450506f2bc8f1f3.scn"
+path="res://.godot/imported/spline-concave-straight-hill-complete.glb-68ecbf923fa1bf569450506f2bc8f1f3.res"
 
 [deps]
 
 source_file="res://assets/spline-concave-straight-hill-complete.glb"
-dest_files=["res://.godot/imported/spline-concave-straight-hill-complete.glb-68ecbf923fa1bf569450506f2bc8f1f3.scn"]
+dest_files=["res://.godot/imported/spline-concave-straight-hill-complete.glb-68ecbf923fa1bf569450506f2bc8f1f3.res"]
 
 [params]
 

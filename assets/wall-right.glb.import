@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://b28tq5qh0voaj"
-path="res://.godot/imported/wall-right.glb-29cc89e4ec4339b568ad23c8e3dc1de9.scn"
+path="res://.godot/imported/wall-right.glb-29cc89e4ec4339b568ad23c8e3dc1de9.res"
 
 [deps]
 
 source_file="res://assets/wall-right.glb"
-dest_files=["res://.godot/imported/wall-right.glb-29cc89e4ec4339b568ad23c8e3dc1de9.scn"]
+dest_files=["res://.godot/imported/wall-right.glb-29cc89e4ec4339b568ad23c8e3dc1de9.res"]
 
 [params]
 

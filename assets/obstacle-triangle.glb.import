@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://naujgfww8keh"
-path="res://.godot/imported/obstacle-triangle.glb-a2c1504e318bcb3b725fe943c3d783da.scn"
+path="res://.godot/imported/obstacle-triangle.glb-a2c1504e318bcb3b725fe943c3d783da.res"
 
 [deps]
 
 source_file="res://assets/obstacle-triangle.glb"
-dest_files=["res://.godot/imported/obstacle-triangle.glb-a2c1504e318bcb3b725fe943c3d783da.scn"]
+dest_files=["res://.godot/imported/obstacle-triangle.glb-a2c1504e318bcb3b725fe943c3d783da.res"]
 
 [params]
 

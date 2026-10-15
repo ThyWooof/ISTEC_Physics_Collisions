@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://baxyf50ak2bgt"
-path="res://.godot/imported/spline-default-straight-bump-up.glb-25edd344d0e224885e62f6ea3388bfca.scn"
+path="res://.godot/imported/spline-default-straight-bump-up.glb-25edd344d0e224885e62f6ea3388bfca.res"
 
 [deps]
 
 source_file="res://assets/spline-default-straight-bump-up.glb"
-dest_files=["res://.godot/imported/spline-default-straight-bump-up.glb-25edd344d0e224885e62f6ea3388bfca.scn"]
+dest_files=["res://.godot/imported/spline-default-straight-bump-up.glb-25edd344d0e224885e62f6ea3388bfca.res"]
 
 [params]
 

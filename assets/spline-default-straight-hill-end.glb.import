@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://dnlyyo5go03sv"
-path="res://.godot/imported/spline-default-straight-hill-end.glb-bab645875987238384291b847a650f60.scn"
+path="res://.godot/imported/spline-default-straight-hill-end.glb-bab645875987238384291b847a650f60.res"
 
 [deps]
 
 source_file="res://assets/spline-default-straight-hill-end.glb"
-dest_files=["res://.godot/imported/spline-default-straight-hill-end.glb-bab645875987238384291b847a650f60.scn"]
+dest_files=["res://.godot/imported/spline-default-straight-hill-end.glb-bab645875987238384291b847a650f60.res"]
 
 [params]
 

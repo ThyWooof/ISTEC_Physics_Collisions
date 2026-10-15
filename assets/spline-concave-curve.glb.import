@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://wpht2buklp3i"
-path="res://.godot/imported/spline-concave-curve.glb-c5be1bf84d607a4cf7ab22b8d140fd6e.scn"
+path="res://.godot/imported/spline-concave-curve.glb-c5be1bf84d607a4cf7ab22b8d140fd6e.res"
 
 [deps]
 
 source_file="res://assets/spline-concave-curve.glb"
-dest_files=["res://.godot/imported/spline-concave-curve.glb-c5be1bf84d607a4cf7ab22b8d140fd6e.scn"]
+dest_files=["res://.godot/imported/spline-concave-curve.glb-c5be1bf84d607a4cf7ab22b8d140fd6e.res"]
 
 [params]
 

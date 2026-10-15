@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://3yck46066cia"
-path="res://.godot/imported/ramp-low.glb-ec6b2de2f06cc889203a10e7dfb5324e.scn"
+path="res://.godot/imported/ramp-low.glb-ec6b2de2f06cc889203a10e7dfb5324e.res"
 
 [deps]
 
 source_file="res://assets/ramp-low.glb"
-dest_files=["res://.godot/imported/ramp-low.glb-ec6b2de2f06cc889203a10e7dfb5324e.scn"]
+dest_files=["res://.godot/imported/ramp-low.glb-ec6b2de2f06cc889203a10e7dfb5324e.res"]
 
 [params]
 

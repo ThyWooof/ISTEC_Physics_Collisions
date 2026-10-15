@@ -1,15 +1,15 @@
 [remap]
 
-importer="scene"
+importer="ArrayMesh"
 importer_version=1
-type="PackedScene"
+type="ArrayMesh"
 uid="uid://b7hoh0b6cq47p"
-path="res://.godot/imported/spline-concave-corner-large-ramp.glb-7e961b57fd0b795ceb860c89da3f1dfa.scn"
+path="res://.godot/imported/spline-concave-corner-large-ramp.glb-7e961b57fd0b795ceb860c89da3f1dfa.res"
 
 [deps]
 
 source_file="res://assets/spline-concave-corner-large-ramp.glb"
-dest_files=["res://.godot/imported/spline-concave-corner-large-ramp.glb-7e961b57fd0b795ceb860c89da3f1dfa.scn"]
+dest_files=["res://.godot/imported/spline-concave-corner-large-ramp.glb-7e961b57fd0b795ceb860c89da3f1dfa.res"]
 
 [params]
 
