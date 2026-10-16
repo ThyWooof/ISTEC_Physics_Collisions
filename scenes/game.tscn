@@ -2,15 +2,16 @@
 
 [ext_resource type="MeshLibrary" uid="uid://b66j80a7cfisw" path="res://tiles.tres" id="1_uwrxv"]
 [ext_resource type="PackedScene" uid="uid://bhw160vo1q5ws" path="res://scenes/balls.tscn" id="2_yqjtg"]
+[ext_resource type="Script" uid="uid://bymfg3xv028rv" path="res://scripts/camera_3d.gd" id="3_lnu2h"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_lnu2h"]
+friction = 0.25
 
 [node name="Node3D" type="Node3D" unique_id=1514026681]
 
-[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=880478209]
-transform = Transform3D(0.7161746, -0.5662127, 0.40804088, 0.027231282, 0.6068767, 0.7943294, -0.6973898, -0.557767, 0.45004827, 3.9223685, 5.403428, 9.524811)
+[node name="ElMapa" type="Node" parent="." unique_id=1426237147]
 
-[node name="Node" type="Node" parent="." unique_id=1426237147]
-
-[node name="GridMap" type="GridMap" parent="Node" unique_id=663343270]
+[node name="ElTrack" type="GridMap" parent="ElMapa" unique_id=663343270]
 mesh_library = ExtResource("1_uwrxv")
 cell_size = Vector3(0.5, 0.5, 0.5)
 data = {
@@ -18,7 +19,7 @@ data = {
 }
 metadata/_editor_floor_ = Vector3(0, 0, 0)
 
-[node name="GridMap2" type="GridMap" parent="Node" unique_id=1584403645]
+[node name="DetallesDelMapa" type="GridMap" parent="ElMapa" unique_id=1584403645]
 mesh_library = ExtResource("1_uwrxv")
 cell_size = Vector3(0.5, 0.5, 0.5)
 data = {
@@ -26,9 +27,18 @@ data = {
 }
 metadata/_editor_floor_ = Vector3(0, 2, 0)
 
-[node name="RigidBody3D" parent="." unique_id=1472106448 instance=ExtResource("2_yqjtg")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.45228302, 0.34822258, 1.2567012)
+[node name="LaLuzDelMapa" type="DirectionalLight3D" parent="ElMapa" unique_id=880478209]
+transform = Transform3D(0.7161746, -0.5662126, 0.40804085, 0.027231282, 0.6068767, 0.7943294, -0.6973898, -0.5577671, 0.4500483, 3.9223685, 5.403428, 9.524811)
 
-[node name="Camera3D" type="Camera3D" parent="RigidBody3D" unique_id=1243102921]
-transform = Transform3D(-0.736599, 0.36408988, -0.5699654, 0.009415548, 0.8481717, 0.5296378, 0.6762643, 0.38476413, -0.6281905, -0.54472136, 0.8606676, -0.93738794)
+[node name="Bolas" type="Node" parent="." unique_id=272616405]
+
+[node name="MiBola" parent="Bolas" unique_id=1472106448 instance=ExtResource("2_yqjtg")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.45228302, 0.34822258, 1.2567012)
+physics_material_override = SubResource("PhysicsMaterial_lnu2h")
+
+[node name="LaCamaraDeMiBola" type="Camera3D" parent="Bolas" unique_id=1243102921 node_paths=PackedStringArray("ball")]
+transform = Transform3D(-0.736599, 0.36408988, -0.5699654, 0.009415548, 0.8481717, 0.5296378, 0.6762643, 0.38476413, -0.6281905, -0.9970044, 1.2088902, 0.3193133)
 fov = 35.0
+script = ExtResource("3_lnu2h")
+ball = NodePath("../MiBola")
+offset = Vector3(-1, 1.2, -1)
