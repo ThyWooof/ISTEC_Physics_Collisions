@@ -32,9 +32,10 @@ transform = Transform3D(0.7161746, -0.5662126, 0.40804085, 0.027231282, 0.606876
 
 [node name="Bolas" type="Node" parent="." unique_id=272616405]
 
-[node name="MiBola" parent="Bolas" unique_id=1472106448 instance=ExtResource("2_yqjtg")]
+[node name="MiBola" parent="Bolas" unique_id=1472106448 node_paths=PackedStringArray("camera") instance=ExtResource("2_yqjtg")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.45228302, 0.34822258, 1.2567012)
 physics_material_override = SubResource("PhysicsMaterial_lnu2h")
+camera = NodePath("../LaCamaraDeMiBola")
 
 [node name="LaCamaraDeMiBola" type="Camera3D" parent="Bolas" unique_id=1243102921 node_paths=PackedStringArray("ball")]
 transform = Transform3D(-0.736599, 0.36408988, -0.5699654, 0.009415548, 0.8481717, 0.5296378, 0.6762643, 0.38476413, -0.6281905, -0.9970044, 1.2088902, 0.3193133)
